@@ -1,0 +1,375 @@
+{"ts":"2026-06-14T11:16:55.472494+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T111655Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T11:16:55.476451+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:16:55.485669+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:16:55.501036+00:00","type":"telemetry_connected","drone":"drone_1","ip":"10.28.91.6","port":8081}
+{"ts":"2026-06-14T11:16:55.509023+00:00","type":"telemetry_sample","drone":"drone_1","packets":1,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:16:56.531813+00:00","type":"telemetry_sample","drone":"drone_1","packets":94,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:16:57.492337+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:16:57.538950+00:00","type":"telemetry_sample","drone":"drone_1","packets":185,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:16:58.546291+00:00","type":"telemetry_sample","drone":"drone_1","packets":274,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:16:59.500848+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:16:59.554826+00:00","type":"telemetry_sample","drone":"drone_1","packets":363,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:00.486165+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:00.565846+00:00","type":"telemetry_sample","drone":"drone_1","packets":450,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:01.508171+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:01.574622+00:00","type":"telemetry_sample","drone":"drone_1","packets":541,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:02.580795+00:00","type":"telemetry_sample","drone":"drone_1","packets":629,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:03.516326+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:03.585808+00:00","type":"telemetry_sample","drone":"drone_1","packets":721,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:04.587683+00:00","type":"telemetry_sample","drone":"drone_1","packets":817,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:05.495949+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:05.523433+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:05.587881+00:00","type":"telemetry_sample","drone":"drone_1","packets":913,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:06.590321+00:00","type":"telemetry_sample","drone":"drone_1","packets":1008,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:07.529730+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:07.602204+00:00","type":"telemetry_sample","drone":"drone_1","packets":1102,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:08.610893+00:00","type":"telemetry_sample","drone":"drone_1","packets":1202,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:09.536100+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:09.622522+00:00","type":"telemetry_sample","drone":"drone_1","packets":1298,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:10.504794+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:10.649527+00:00","type":"telemetry_sample","drone":"drone_1","packets":1395,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:11.543737+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:11.656296+00:00","type":"telemetry_sample","drone":"drone_1","packets":1493,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:12.662804+00:00","type":"telemetry_sample","drone":"drone_1","packets":1590,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:13.551280+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:13.663923+00:00","type":"telemetry_sample","drone":"drone_1","packets":1686,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:14.664029+00:00","type":"telemetry_sample","drone":"drone_1","packets":1781,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:15.515755+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:15.558136+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:15.664605+00:00","type":"telemetry_sample","drone":"drone_1","packets":1876,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:16.671777+00:00","type":"telemetry_sample","drone":"drone_1","packets":1973,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:17.564238+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:17.678125+00:00","type":"telemetry_sample","drone":"drone_1","packets":2069,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:18.680457+00:00","type":"telemetry_sample","drone":"drone_1","packets":2165,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:19.572143+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:19.690778+00:00","type":"telemetry_sample","drone":"drone_1","packets":2261,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:20.524113+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:20.692446+00:00","type":"telemetry_sample","drone":"drone_1","packets":2358,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:21.579186+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:21.696880+00:00","type":"telemetry_sample","drone":"drone_1","packets":2454,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:22.750732+00:00","type":"telemetry_sample","drone":"drone_1","packets":2550,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:23.587026+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:23.757872+00:00","type":"telemetry_sample","drone":"drone_1","packets":2652,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:24.758781+00:00","type":"telemetry_sample","drone":"drone_1","packets":2748,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:25.533543+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:25.594538+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:25.759036+00:00","type":"telemetry_sample","drone":"drone_1","packets":2844,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:26.767567+00:00","type":"telemetry_sample","drone":"drone_1","packets":2940,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:27.601287+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:27.773490+00:00","type":"telemetry_sample","drone":"drone_1","packets":3036,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:28.776426+00:00","type":"telemetry_sample","drone":"drone_1","packets":3131,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:29.608582+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:29.778522+00:00","type":"telemetry_sample","drone":"drone_1","packets":3227,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:30.543271+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:30.785812+00:00","type":"telemetry_sample","drone":"drone_1","packets":3322,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:31.613406+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:31.792995+00:00","type":"telemetry_sample","drone":"drone_1","packets":3414,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:32.797242+00:00","type":"telemetry_sample","drone":"drone_1","packets":3503,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:33.618529+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:33.799736+00:00","type":"telemetry_sample","drone":"drone_1","packets":3592,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:34.815130+00:00","type":"telemetry_sample","drone":"drone_1","packets":3681,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:35.552275+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:35.625182+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:35.821085+00:00","type":"telemetry_sample","drone":"drone_1","packets":3769,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:36.950148+00:00","type":"telemetry_sample","drone":"drone_1","packets":3850,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:37.632408+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:38.164572+00:00","type":"telemetry_sample","drone":"drone_1","packets":3961,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:39.173976+00:00","type":"telemetry_sample","drone":"drone_1","packets":4077,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:39.640287+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:40.257065+00:00","type":"telemetry_sample","drone":"drone_1","packets":4156,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:40.562287+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:41.439632+00:00","type":"telemetry_sample","drone":"drone_1","packets":4273,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:41.647646+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:42.442642+00:00","type":"telemetry_sample","drone":"drone_1","packets":4388,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:43.503496+00:00","type":"telemetry_sample","drone":"drone_1","packets":4469,"batteryLevel":86,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:43.655335+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:44.507614+00:00","type":"telemetry_sample","drone":"drone_1","packets":4585,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:45.572020+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:45.661224+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:45.745853+00:00","type":"telemetry_sample","drone":"drone_1","packets":4679,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:46.751019+00:00","type":"telemetry_sample","drone":"drone_1","packets":4799,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:47.666822+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:47.843962+00:00","type":"telemetry_sample","drone":"drone_1","packets":4879,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:49.022743+00:00","type":"telemetry_sample","drone":"drone_1","packets":4995,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:49.674466+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:50.027998+00:00","type":"telemetry_sample","drone":"drone_1","packets":5111,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:50.580748+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:51.070979+00:00","type":"telemetry_sample","drone":"drone_1","packets":5190,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:51.680766+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:52.077497+00:00","type":"telemetry_sample","drone":"drone_1","packets":5306,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:53.116348+00:00","type":"telemetry_sample","drone":"drone_1","packets":5380,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:53.688489+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:54.121136+00:00","type":"telemetry_sample","drone":"drone_1","packets":5500,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:55.123326+00:00","type":"telemetry_sample","drone":"drone_1","packets":5596,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:55.590339+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:17:55.695480+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:56.132158+00:00","type":"telemetry_sample","drone":"drone_1","packets":5691,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:57.135902+00:00","type":"telemetry_sample","drone":"drone_1","packets":5787,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:57.699345+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:17:58.144811+00:00","type":"telemetry_sample","drone":"drone_1","packets":5883,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:59.152672+00:00","type":"telemetry_sample","drone":"drone_1","packets":5979,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:17:59.705802+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:00.156973+00:00","type":"telemetry_sample","drone":"drone_1","packets":6075,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:00.600252+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:01.163281+00:00","type":"telemetry_sample","drone":"drone_1","packets":6170,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:01.713493+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:02.165748+00:00","type":"telemetry_sample","drone":"drone_1","packets":6265,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:03.178554+00:00","type":"telemetry_sample","drone":"drone_1","packets":6361,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:03.720877+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:04.184892+00:00","type":"telemetry_sample","drone":"drone_1","packets":6457,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:05.196718+00:00","type":"telemetry_sample","drone":"drone_1","packets":6552,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:05.610580+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:05.728386+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:06.209305+00:00","type":"telemetry_sample","drone":"drone_1","packets":6640,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:07.215420+00:00","type":"telemetry_sample","drone":"drone_1","packets":6731,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:07.736152+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:08.228042+00:00","type":"telemetry_sample","drone":"drone_1","packets":6820,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:09.235692+00:00","type":"telemetry_sample","drone":"drone_1","packets":6909,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:09.742084+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:10.266725+00:00","type":"telemetry_sample","drone":"drone_1","packets":6997,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:10.621501+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:11.267143+00:00","type":"telemetry_sample","drone":"drone_1","packets":7089,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:11.748046+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:12.272726+00:00","type":"telemetry_sample","drone":"drone_1","packets":7179,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:13.279152+00:00","type":"telemetry_sample","drone":"drone_1","packets":7274,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:13.754541+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:14.281325+00:00","type":"telemetry_sample","drone":"drone_1","packets":7371,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:15.288690+00:00","type":"telemetry_sample","drone":"drone_1","packets":7467,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:15.631822+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:15.760705+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:16.296625+00:00","type":"telemetry_sample","drone":"drone_1","packets":7563,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:17.305114+00:00","type":"telemetry_sample","drone":"drone_1","packets":7659,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:17.765376+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:18.306092+00:00","type":"telemetry_sample","drone":"drone_1","packets":7755,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:19.312421+00:00","type":"telemetry_sample","drone":"drone_1","packets":7851,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:19.771954+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:20.340611+00:00","type":"telemetry_sample","drone":"drone_1","packets":7947,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:20.638672+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:21.342975+00:00","type":"telemetry_sample","drone":"drone_1","packets":8044,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:21.778658+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:22.347294+00:00","type":"telemetry_sample","drone":"drone_1","packets":8139,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:23.360337+00:00","type":"telemetry_sample","drone":"drone_1","packets":8235,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:23.784197+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:24.367463+00:00","type":"telemetry_sample","drone":"drone_1","packets":8331,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:25.375481+00:00","type":"telemetry_sample","drone":"drone_1","packets":8427,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:25.647925+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:25.790369+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:26.395301+00:00","type":"telemetry_sample","drone":"drone_1","packets":8524,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:27.404697+00:00","type":"telemetry_sample","drone":"drone_1","packets":8621,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:27.797026+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:28.414439+00:00","type":"telemetry_sample","drone":"drone_1","packets":8717,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:29.418997+00:00","type":"telemetry_sample","drone":"drone_1","packets":8812,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:29.803105+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:30.425600+00:00","type":"telemetry_sample","drone":"drone_1","packets":8908,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:30.656328+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:31.438762+00:00","type":"telemetry_sample","drone":"drone_1","packets":9004,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:31.809664+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:32.462465+00:00","type":"telemetry_sample","drone":"drone_1","packets":9100,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:33.462657+00:00","type":"telemetry_sample","drone":"drone_1","packets":9196,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:33.816238+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:34.473769+00:00","type":"telemetry_sample","drone":"drone_1","packets":9292,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:35.483045+00:00","type":"telemetry_sample","drone":"drone_1","packets":9388,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:35.665945+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:35.821455+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:36.488261+00:00","type":"telemetry_sample","drone":"drone_1","packets":9483,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:37.495854+00:00","type":"telemetry_sample","drone":"drone_1","packets":9579,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:37.828039+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:38.499129+00:00","type":"telemetry_sample","drone":"drone_1","packets":9675,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:39.503516+00:00","type":"telemetry_sample","drone":"drone_1","packets":9770,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:39.834704+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:40.507955+00:00","type":"telemetry_sample","drone":"drone_1","packets":9862,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:40.675003+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:41.512154+00:00","type":"telemetry_sample","drone":"drone_1","packets":9952,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:41.840806+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:42.515755+00:00","type":"telemetry_sample","drone":"drone_1","packets":10041,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:43.523064+00:00","type":"telemetry_sample","drone":"drone_1","packets":10130,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:43.849366+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:44.533227+00:00","type":"telemetry_sample","drone":"drone_1","packets":10219,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:45.539090+00:00","type":"telemetry_sample","drone":"drone_1","packets":10308,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:45.685231+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:45.854823+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:46.552094+00:00","type":"telemetry_sample","drone":"drone_1","packets":10397,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:47.553099+00:00","type":"telemetry_sample","drone":"drone_1","packets":10492,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:47.860979+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:48.559339+00:00","type":"telemetry_sample","drone":"drone_1","packets":10587,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:49.560255+00:00","type":"telemetry_sample","drone":"drone_1","packets":10682,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:49.868505+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:50.563967+00:00","type":"telemetry_sample","drone":"drone_1","packets":10778,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:50.694609+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:51.573094+00:00","type":"telemetry_sample","drone":"drone_1","packets":10874,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:51.875039+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:52.576406+00:00","type":"telemetry_sample","drone":"drone_1","packets":10969,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:53.581673+00:00","type":"telemetry_sample","drone":"drone_1","packets":11064,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:53.883381+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:54.581747+00:00","type":"telemetry_sample","drone":"drone_1","packets":11159,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:55.582996+00:00","type":"telemetry_sample","drone":"drone_1","packets":11254,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:55.703886+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:18:55.889072+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:56.584924+00:00","type":"telemetry_sample","drone":"drone_1","packets":11349,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:57.585878+00:00","type":"telemetry_sample","drone":"drone_1","packets":11445,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:57.896018+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:18:58.595628+00:00","type":"telemetry_sample","drone":"drone_1","packets":11541,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:59.598413+00:00","type":"telemetry_sample","drone":"drone_1","packets":11636,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:18:59.903690+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:00.601786+00:00","type":"telemetry_sample","drone":"drone_1","packets":11732,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:00.714628+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:01.602411+00:00","type":"telemetry_sample","drone":"drone_1","packets":11827,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:01.910549+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:02.607564+00:00","type":"telemetry_sample","drone":"drone_1","packets":11922,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:03.611635+00:00","type":"telemetry_sample","drone":"drone_1","packets":12018,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:03.917166+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:04.613482+00:00","type":"telemetry_sample","drone":"drone_1","packets":12113,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:05.623155+00:00","type":"telemetry_sample","drone":"drone_1","packets":12209,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:05.720885+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:05.925607+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:06.629787+00:00","type":"telemetry_sample","drone":"drone_1","packets":12305,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:07.636279+00:00","type":"telemetry_sample","drone":"drone_1","packets":12401,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:07.932979+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:08.647835+00:00","type":"telemetry_sample","drone":"drone_1","packets":12497,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:09.654381+00:00","type":"telemetry_sample","drone":"drone_1","packets":12593,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:09.939514+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:10.655639+00:00","type":"telemetry_sample","drone":"drone_1","packets":12689,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:10.730283+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:11.666119+00:00","type":"telemetry_sample","drone":"drone_1","packets":12785,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:11.947975+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:12.674451+00:00","type":"telemetry_sample","drone":"drone_1","packets":12881,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:13.676829+00:00","type":"telemetry_sample","drone":"drone_1","packets":12977,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:13.955877+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:14.680045+00:00","type":"telemetry_sample","drone":"drone_1","packets":13071,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:15.685876+00:00","type":"telemetry_sample","drone":"drone_1","packets":13163,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:15.739848+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:15.965675+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:16.695443+00:00","type":"telemetry_sample","drone":"drone_1","packets":13253,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:17.695901+00:00","type":"telemetry_sample","drone":"drone_1","packets":13341,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:17.972076+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:18.702183+00:00","type":"telemetry_sample","drone":"drone_1","packets":13429,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:19.707341+00:00","type":"telemetry_sample","drone":"drone_1","packets":13518,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:19.980024+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:20.713780+00:00","type":"telemetry_sample","drone":"drone_1","packets":13607,"batteryLevel":85,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:20.748841+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:21.720289+00:00","type":"telemetry_sample","drone":"drone_1","packets":13698,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:21.986615+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:22.730614+00:00","type":"telemetry_sample","drone":"drone_1","packets":13795,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:23.736223+00:00","type":"telemetry_sample","drone":"drone_1","packets":13891,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:23.993009+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:24.738836+00:00","type":"telemetry_sample","drone":"drone_1","packets":13987,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:25.741381+00:00","type":"telemetry_sample","drone":"drone_1","packets":14082,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:25.759323+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:26.000058+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:26.741519+00:00","type":"telemetry_sample","drone":"drone_1","packets":14177,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:27.760547+00:00","type":"telemetry_sample","drone":"drone_1","packets":14273,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:28.006432+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:28.765403+00:00","type":"telemetry_sample","drone":"drone_1","packets":14370,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:29.775090+00:00","type":"telemetry_sample","drone":"drone_1","packets":14467,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:30.013880+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:30.769056+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:30.778285+00:00","type":"telemetry_sample","drone":"drone_1","packets":14553,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:31.779719+00:00","type":"telemetry_sample","drone":"drone_1","packets":14638,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:32.021435+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:32.784911+00:00","type":"telemetry_sample","drone":"drone_1","packets":14727,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:33.798857+00:00","type":"telemetry_sample","drone":"drone_1","packets":14816,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:34.029822+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:34.809475+00:00","type":"telemetry_sample","drone":"drone_1","packets":14902,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:35.779782+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:35.824246+00:00","type":"telemetry_sample","drone":"drone_1","packets":14987,"batteryLevel":84,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:19:35.990488+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":1}
+{"ts":"2026-06-14T11:19:36.038040+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:38.047243+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:40.055583+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:40.789454+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:42.064655+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:43.001036+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:19:43.006550+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":2}
+{"ts":"2026-06-14T11:19:44.071622+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:45.800041+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:46.077515+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:48.086429+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:50.015286+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:19:50.020616+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":3}
+{"ts":"2026-06-14T11:19:50.094879+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:50.811565+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:52.103817+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:54.111622+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:55.824370+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:19:56.119608+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:19:57.031209+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:19:57.037365+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":4}
+{"ts":"2026-06-14T11:19:58.128181+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:00.137435+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:00.836068+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:02.146269+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:04.047449+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:04.052753+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":5}
+{"ts":"2026-06-14T11:20:04.153140+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:05.845629+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:06.159566+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:08.168125+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:10.176010+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:10.858810+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:11.062488+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:11.067537+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":6}
+{"ts":"2026-06-14T11:20:12.184312+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:14.191777+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:15.869392+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:16.198290+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:18.075711+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:18.081302+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":7}
+{"ts":"2026-06-14T11:20:18.206419+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:20.214264+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:20.877275+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:22.221294+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:24.227416+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:25.092009+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:25.096527+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":8}
+{"ts":"2026-06-14T11:20:25.887480+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:26.234925+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:28.242918+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:30.250685+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:30.898639+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:32.106170+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:32.111376+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":9}
+{"ts":"2026-06-14T11:20:32.258431+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:34.265676+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:35.909658+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:36.273781+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:38.281132+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:39.121123+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:39.126579+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":10}
+{"ts":"2026-06-14T11:20:40.289510+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:40.919715+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:42.298346+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:44.305376+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:45.930463+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:46.135357+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:46.140539+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":11}
+{"ts":"2026-06-14T11:20:46.311830+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:48.319540+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:50.328138+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:50.940147+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:52.337527+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:53.150549+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:20:53.153701+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":12}
+{"ts":"2026-06-14T11:20:54.344256+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:55.951425+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:20:56.351506+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:20:58.358515+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:00.162706+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:00.167545+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":13}
+{"ts":"2026-06-14T11:21:00.366693+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:00.961876+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:02.373700+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:04.381550+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:05.972614+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:06.389984+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:07.177488+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:07.182187+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":14}
+{"ts":"2026-06-14T11:21:08.398312+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:10.405166+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:10.983596+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:12.413656+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:14.191316+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:14.194287+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":15}
+{"ts":"2026-06-14T11:21:14.422717+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:15.995139+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:16.430271+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}
+{"ts":"2026-06-14T11:21:18.438625+00:00","type":"mediamtx_api_error","error":"HTTP Error 401: Unauthorized"}

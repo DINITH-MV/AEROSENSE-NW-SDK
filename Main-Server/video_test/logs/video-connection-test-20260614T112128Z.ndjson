@@ -1,0 +1,38 @@
+{"ts":"2026-06-14T11:21:28.997049+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T112128Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:29.000981+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:33.004260+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:21:34.010483+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:34.010713+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:34.018731+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":1}
+{"ts":"2026-06-14T11:21:38.881501+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:21:39.024570+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:41.027232+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:41.032014+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":2}
+{"ts":"2026-06-14T11:21:44.036373+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:44.879660+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:21:48.039407+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:48.044394+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":3}
+{"ts":"2026-06-14T11:21:49.047588+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:50.886043+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:21:54.056862+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:21:55.054335+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:21:55.059410+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":4}
+{"ts":"2026-06-14T11:21:56.893426+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:21:59.067649+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:22:02.068988+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:22:02.072783+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":5}
+{"ts":"2026-06-14T11:22:02.898678+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:22:04.077310+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:22:08.906081+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:22:09.081415+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:22:09.086864+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:22:09.086494+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":6}
+{"ts":"2026-06-14T11:22:14.096780+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:22:14.912643+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:22:16.094758+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:22:16.098137+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":7}
+{"ts":"2026-06-14T11:22:19.106429+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:22:20.916343+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:22:23.106157+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:22:23.112206+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":8}
+{"ts":"2026-06-14T11:22:24.117489+00:00","type":"discovery_started","drones":["drone_1"]}

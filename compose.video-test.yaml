@@ -1,0 +1,42 @@
+services:
+  mediamtx:
+    image: bluenviron/mediamtx:latest
+    container_name: wildbridge_mediamtx
+    networks:
+      - wildbridge
+    ports:
+      - "8889:8889" # WHIP (phone → mediamtx) and WHEP (browser ← mediamtx)
+      - "8189:8189/udp" # WebRTC ICE UDP
+      - "9997:9997" # mediamtx API
+    environment:
+      - MTX_WEBRTCLOCALUDPADDRESS=${MEDIAMTX_WEBRTC_UDP_ADDRESS:-:8189}
+    volumes:
+      - ./GroundStation/video_test/mediamtx.yml:/mediamtx.yml:ro
+
+  video-grid:
+    image: wildbridge-video-connection-test:latest
+    build:
+      context: ./GroundStation/video_test/webapp
+    container_name: wildbridge_video_connection_test
+    networks:
+      - wildbridge
+    depends_on:
+      - mediamtx
+    ports:
+      - "8090:8090" # Video grid web UI
+    environment:
+      - PORT=${VIDEO_GRID_PORT:-8090}
+      - MEDIAMTX_API_URL=${MEDIAMTX_API_URL:-http://mediamtx:9997}
+      - MEDIAMTX_WEBRTC_URL=${MEDIAMTX_WEBRTC_URL:-http://192.168.137.1:8889}
+      - DRONE_NAMES=${DRONE_NAMES:-drone_1}
+      - DRONE_FALLBACKS=${DRONE_FALLBACKS:-drone_1=192.168.137.194}
+      - DISCOVERY_INTERVAL_MS=${DISCOVERY_INTERVAL_MS:-5000}
+      - TELEMETRY_PORT=${TELEMETRY_PORT:-8081}
+      - LOG_DIR=/logs
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./GroundStation/video_test/logs:/logs
+
+networks:
+  wildbridge:
+    driver: bridge

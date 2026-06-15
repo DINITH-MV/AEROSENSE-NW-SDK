@@ -1,0 +1,12 @@
+{"ts":"2026-06-14T02:37:03.283675+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T023703Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T02:37:03.292036+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:37:03.296080+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:37:05.302130+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:37:07.312675+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:37:08.301173+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:37:08.301363+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:37:08.305766+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":1}
+{"ts":"2026-06-14T02:37:09.320183+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:37:11.328164+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:37:13.310215+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:37:13.334237+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}

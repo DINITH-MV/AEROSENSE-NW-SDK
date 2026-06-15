@@ -1,0 +1,5 @@
+docker compose -f compose.video-test.yaml restart mediamtx
+
+docker compose -f compose.video-test.yaml down
+
+docker compose -f compose.video-test.yaml up

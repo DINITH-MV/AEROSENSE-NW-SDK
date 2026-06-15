@@ -1,0 +1,438 @@
+{"ts":"2026-06-14T11:02:03.707818+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T110203Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:03.711475+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:03.719020+00:00","type":"telemetry_connected","drone":"drone_1","ip":"10.28.91.6","port":8081}
+{"ts":"2026-06-14T11:02:03.729438+00:00","type":"telemetry_sample","drone":"drone_1","packets":1,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:04.732842+00:00","type":"telemetry_sample","drone":"drone_1","packets":94,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:05.734284+00:00","type":"telemetry_sample","drone":"drone_1","packets":183,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:06.745890+00:00","type":"telemetry_sample","drone":"drone_1","packets":272,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:07.673851+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:07.750637+00:00","type":"telemetry_sample","drone":"drone_1","packets":359,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:08.720820+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:08.753866+00:00","type":"telemetry_sample","drone":"drone_1","packets":445,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:09.759115+00:00","type":"telemetry_sample","drone":"drone_1","packets":530,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:10.776301+00:00","type":"telemetry_sample","drone":"drone_1","packets":621,"batteryLevel":90,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:11.794283+00:00","type":"telemetry_sample","drone":"drone_1","packets":713,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:12.796251+00:00","type":"telemetry_sample","drone":"drone_1","packets":809,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:13.644977+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:13.729856+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:13.809321+00:00","type":"telemetry_sample","drone":"drone_1","packets":905,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:14.820247+00:00","type":"telemetry_sample","drone":"drone_1","packets":1002,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:15.821591+00:00","type":"telemetry_sample","drone":"drone_1","packets":1097,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:16.824604+00:00","type":"telemetry_sample","drone":"drone_1","packets":1192,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:17.829006+00:00","type":"telemetry_sample","drone":"drone_1","packets":1287,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:18.738104+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:18.836310+00:00","type":"telemetry_sample","drone":"drone_1","packets":1383,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:19.623763+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:19.839320+00:00","type":"telemetry_sample","drone":"drone_1","packets":1479,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:20.843705+00:00","type":"telemetry_sample","drone":"drone_1","packets":1574,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:21.856668+00:00","type":"telemetry_sample","drone":"drone_1","packets":1670,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:22.895599+00:00","type":"telemetry_sample","drone":"drone_1","packets":1761,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:23.743946+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:23.906958+00:00","type":"telemetry_sample","drone":"drone_1","packets":1864,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:24.909097+00:00","type":"telemetry_sample","drone":"drone_1","packets":1958,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:25.606159+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:25.915180+00:00","type":"telemetry_sample","drone":"drone_1","packets":2054,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:26.922988+00:00","type":"telemetry_sample","drone":"drone_1","packets":2149,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:27.928805+00:00","type":"telemetry_sample","drone":"drone_1","packets":2245,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:28.753156+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:28.932089+00:00","type":"telemetry_sample","drone":"drone_1","packets":2341,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:29.939878+00:00","type":"telemetry_sample","drone":"drone_1","packets":2436,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:30.942016+00:00","type":"telemetry_sample","drone":"drone_1","packets":2531,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:31.588709+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:31.942419+00:00","type":"telemetry_sample","drone":"drone_1","packets":2624,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:32.951572+00:00","type":"telemetry_sample","drone":"drone_1","packets":2714,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:33.759970+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:33.953320+00:00","type":"telemetry_sample","drone":"drone_1","packets":2801,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:34.958095+00:00","type":"telemetry_sample","drone":"drone_1","packets":2887,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:35.977372+00:00","type":"telemetry_sample","drone":"drone_1","packets":2978,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:36.985480+00:00","type":"telemetry_sample","drone":"drone_1","packets":3064,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:37.596291+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:02:38.026968+00:00","type":"telemetry_sample","drone":"drone_1","packets":3156,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:38.768551+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:39.031271+00:00","type":"telemetry_sample","drone":"drone_1","packets":3249,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:40.033695+00:00","type":"telemetry_sample","drone":"drone_1","packets":3338,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:41.034574+00:00","type":"telemetry_sample","drone":"drone_1","packets":3425,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:42.036895+00:00","type":"telemetry_sample","drone":"drone_1","packets":3512,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:42.129722+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":1}
+{"ts":"2026-06-14T11:02:43.603766+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:02:43.775999+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:44.148992+00:00","type":"telemetry_connected","drone":"drone_1","ip":"10.28.91.6","port":8081}
+{"ts":"2026-06-14T11:02:44.158577+00:00","type":"telemetry_sample","drone":"drone_1","packets":3521,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:45.168923+00:00","type":"telemetry_sample","drone":"drone_1","packets":3614,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:46.175653+00:00","type":"telemetry_sample","drone":"drone_1","packets":3706,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:47.180819+00:00","type":"telemetry_sample","drone":"drone_1","packets":3793,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:48.187827+00:00","type":"telemetry_sample","drone":"drone_1","packets":3882,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:48.784327+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:49.196098+00:00","type":"telemetry_sample","drone":"drone_1","packets":3971,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:49.581256+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:50.198724+00:00","type":"telemetry_sample","drone":"drone_1","packets":4060,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:51.213955+00:00","type":"telemetry_sample","drone":"drone_1","packets":4148,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:52.271294+00:00","type":"telemetry_sample","drone":"drone_1","packets":4239,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:53.272216+00:00","type":"telemetry_sample","drone":"drone_1","packets":4339,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:53.794236+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:54.280949+00:00","type":"telemetry_sample","drone":"drone_1","packets":4435,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:55.285337+00:00","type":"telemetry_sample","drone":"drone_1","packets":4532,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:55.585181+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:02:56.288783+00:00","type":"telemetry_sample","drone":"drone_1","packets":4627,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:57.289905+00:00","type":"telemetry_sample","drone":"drone_1","packets":4722,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:58.296911+00:00","type":"telemetry_sample","drone":"drone_1","packets":4818,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:02:58.803040+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:02:59.299041+00:00","type":"telemetry_sample","drone":"drone_1","packets":4913,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:00.299297+00:00","type":"telemetry_sample","drone":"drone_1","packets":5008,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:01.305866+00:00","type":"telemetry_sample","drone":"drone_1","packets":5104,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:01.575479+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:02.306160+00:00","type":"telemetry_sample","drone":"drone_1","packets":5200,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:03.311413+00:00","type":"telemetry_sample","drone":"drone_1","packets":5296,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:03.813875+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:04.315230+00:00","type":"telemetry_sample","drone":"drone_1","packets":5391,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:05.315812+00:00","type":"telemetry_sample","drone":"drone_1","packets":5487,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:06.326468+00:00","type":"telemetry_sample","drone":"drone_1","packets":5582,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:07.331921+00:00","type":"telemetry_sample","drone":"drone_1","packets":5678,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:07.547926+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:08.333791+00:00","type":"telemetry_sample","drone":"drone_1","packets":5773,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:08.823278+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:09.336614+00:00","type":"telemetry_sample","drone":"drone_1","packets":5868,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:10.336839+00:00","type":"telemetry_sample","drone":"drone_1","packets":5963,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:11.342773+00:00","type":"telemetry_sample","drone":"drone_1","packets":6058,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:12.351499+00:00","type":"telemetry_sample","drone":"drone_1","packets":6154,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:13.352976+00:00","type":"telemetry_sample","drone":"drone_1","packets":6245,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:13.527149+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:13.832709+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:14.357595+00:00","type":"telemetry_sample","drone":"drone_1","packets":6335,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:15.360261+00:00","type":"telemetry_sample","drone":"drone_1","packets":6425,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:16.366840+00:00","type":"telemetry_sample","drone":"drone_1","packets":6514,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:17.367998+00:00","type":"telemetry_sample","drone":"drone_1","packets":6602,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:18.369517+00:00","type":"telemetry_sample","drone":"drone_1","packets":6691,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:18.842409+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:19.384395+00:00","type":"telemetry_sample","drone":"drone_1","packets":6779,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:19.516176+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:20.392301+00:00","type":"telemetry_sample","drone":"drone_1","packets":6874,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:21.395981+00:00","type":"telemetry_sample","drone":"drone_1","packets":6969,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:22.399998+00:00","type":"telemetry_sample","drone":"drone_1","packets":7061,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:23.406270+00:00","type":"telemetry_sample","drone":"drone_1","packets":7160,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:23.852451+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:24.415528+00:00","type":"telemetry_sample","drone":"drone_1","packets":7255,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:25.428729+00:00","type":"telemetry_sample","drone":"drone_1","packets":7350,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:25.492446+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:26.436956+00:00","type":"telemetry_sample","drone":"drone_1","packets":7448,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:27.437681+00:00","type":"telemetry_sample","drone":"drone_1","packets":7544,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:28.441681+00:00","type":"telemetry_sample","drone":"drone_1","packets":7638,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:28.862235+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:29.447892+00:00","type":"telemetry_sample","drone":"drone_1","packets":7735,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:30.456991+00:00","type":"telemetry_sample","drone":"drone_1","packets":7831,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:31.459561+00:00","type":"telemetry_sample","drone":"drone_1","packets":7926,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:31.458702+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:32.461198+00:00","type":"telemetry_sample","drone":"drone_1","packets":8022,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:33.468925+00:00","type":"telemetry_sample","drone":"drone_1","packets":8118,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:33.872130+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:34.476064+00:00","type":"telemetry_sample","drone":"drone_1","packets":8214,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:35.510280+00:00","type":"telemetry_sample","drone":"drone_1","packets":8301,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:36.583081+00:00","type":"telemetry_sample","drone":"drone_1","packets":8407,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:37.418629+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:37.588030+00:00","type":"telemetry_sample","drone":"drone_1","packets":8510,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:38.595766+00:00","type":"telemetry_sample","drone":"drone_1","packets":8606,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:38.881614+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:39.602082+00:00","type":"telemetry_sample","drone":"drone_1","packets":8701,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:40.604054+00:00","type":"telemetry_sample","drone":"drone_1","packets":8794,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:41.604063+00:00","type":"telemetry_sample","drone":"drone_1","packets":8884,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:42.605846+00:00","type":"telemetry_sample","drone":"drone_1","packets":8973,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:43.377800+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:43.617507+00:00","type":"telemetry_sample","drone":"drone_1","packets":9062,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:43.890117+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:44.617879+00:00","type":"telemetry_sample","drone":"drone_1","packets":9150,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:45.623557+00:00","type":"telemetry_sample","drone":"drone_1","packets":9240,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:46.633252+00:00","type":"telemetry_sample","drone":"drone_1","packets":9329,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:47.633648+00:00","type":"telemetry_sample","drone":"drone_1","packets":9416,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:48.641534+00:00","type":"telemetry_sample","drone":"drone_1","packets":9509,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:48.898496+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:49.358169+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:03:49.643560+00:00","type":"telemetry_sample","drone":"drone_1","packets":9604,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:50.648825+00:00","type":"telemetry_sample","drone":"drone_1","packets":9700,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:51.657879+00:00","type":"telemetry_sample","drone":"drone_1","packets":9796,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:52.661602+00:00","type":"telemetry_sample","drone":"drone_1","packets":9885,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:53.675802+00:00","type":"telemetry_sample","drone":"drone_1","packets":9987,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:53.908975+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:54.686963+00:00","type":"telemetry_sample","drone":"drone_1","packets":10084,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:55.364855+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:03:55.694570+00:00","type":"telemetry_sample","drone":"drone_1","packets":10180,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:56.700318+00:00","type":"telemetry_sample","drone":"drone_1","packets":10275,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:57.721395+00:00","type":"telemetry_sample","drone":"drone_1","packets":10369,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:58.723259+00:00","type":"telemetry_sample","drone":"drone_1","packets":10468,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:03:58.917686+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:03:59.724515+00:00","type":"telemetry_sample","drone":"drone_1","packets":10562,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:00.738087+00:00","type":"telemetry_sample","drone":"drone_1","packets":10659,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:01.326042+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:01.740829+00:00","type":"telemetry_sample","drone":"drone_1","packets":10755,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:02.741650+00:00","type":"telemetry_sample","drone":"drone_1","packets":10850,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:03.752155+00:00","type":"telemetry_sample","drone":"drone_1","packets":10946,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:03.927269+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:04.759206+00:00","type":"telemetry_sample","drone":"drone_1","packets":11042,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:05.761590+00:00","type":"telemetry_sample","drone":"drone_1","packets":11137,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:06.769528+00:00","type":"telemetry_sample","drone":"drone_1","packets":11234,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:07.304949+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:07.770697+00:00","type":"telemetry_sample","drone":"drone_1","packets":11330,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:08.774028+00:00","type":"telemetry_sample","drone":"drone_1","packets":11426,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:08.937150+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:09.785087+00:00","type":"telemetry_sample","drone":"drone_1","packets":11516,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:10.788517+00:00","type":"telemetry_sample","drone":"drone_1","packets":11606,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:11.799070+00:00","type":"telemetry_sample","drone":"drone_1","packets":11695,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:12.801212+00:00","type":"telemetry_sample","drone":"drone_1","packets":11784,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:13.312805+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:04:13.807459+00:00","type":"telemetry_sample","drone":"drone_1","packets":11873,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:13.947175+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:14.814585+00:00","type":"telemetry_sample","drone":"drone_1","packets":11963,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:15.824934+00:00","type":"telemetry_sample","drone":"drone_1","packets":12052,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:16.842531+00:00","type":"telemetry_sample","drone":"drone_1","packets":12140,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:17.851338+00:00","type":"telemetry_sample","drone":"drone_1","packets":12229,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:18.863038+00:00","type":"telemetry_sample","drone":"drone_1","packets":12318,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:18.956620+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:19.278577+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:19.871154+00:00","type":"telemetry_sample","drone":"drone_1","packets":12408,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:20.872779+00:00","type":"telemetry_sample","drone":"drone_1","packets":12497,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:21.880935+00:00","type":"telemetry_sample","drone":"drone_1","packets":12589,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:22.906234+00:00","type":"telemetry_sample","drone":"drone_1","packets":12684,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:23.913362+00:00","type":"telemetry_sample","drone":"drone_1","packets":12782,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:23.966411+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:24.917149+00:00","type":"telemetry_sample","drone":"drone_1","packets":12877,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:25.267606+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:25.917192+00:00","type":"telemetry_sample","drone":"drone_1","packets":12973,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:26.921343+00:00","type":"telemetry_sample","drone":"drone_1","packets":13069,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:27.926003+00:00","type":"telemetry_sample","drone":"drone_1","packets":13165,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:28.951882+00:00","type":"telemetry_sample","drone":"drone_1","packets":13257,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:28.975563+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:29.955412+00:00","type":"telemetry_sample","drone":"drone_1","packets":13358,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:30.959500+00:00","type":"telemetry_sample","drone":"drone_1","packets":13454,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:31.251823+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:31.971242+00:00","type":"telemetry_sample","drone":"drone_1","packets":13550,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:32.979070+00:00","type":"telemetry_sample","drone":"drone_1","packets":13646,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:33.979838+00:00","type":"telemetry_sample","drone":"drone_1","packets":13741,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:33.986108+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:34.986403+00:00","type":"telemetry_sample","drone":"drone_1","packets":13837,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:35.990264+00:00","type":"telemetry_sample","drone":"drone_1","packets":13932,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:36.997528+00:00","type":"telemetry_sample","drone":"drone_1","packets":14028,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:37.213552+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:38.004127+00:00","type":"telemetry_sample","drone":"drone_1","packets":14121,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:38.996159+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:39.012263+00:00","type":"telemetry_sample","drone":"drone_1","packets":14219,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:40.016480+00:00","type":"telemetry_sample","drone":"drone_1","packets":14315,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:41.024950+00:00","type":"telemetry_sample","drone":"drone_1","packets":14408,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:42.032637+00:00","type":"telemetry_sample","drone":"drone_1","packets":14507,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:43.042551+00:00","type":"telemetry_sample","drone":"drone_1","packets":14599,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:43.186623+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:44.007323+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:44.054448+00:00","type":"telemetry_sample","drone":"drone_1","packets":14689,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:45.058201+00:00","type":"telemetry_sample","drone":"drone_1","packets":14778,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:46.059919+00:00","type":"telemetry_sample","drone":"drone_1","packets":14866,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:47.059989+00:00","type":"telemetry_sample","drone":"drone_1","packets":14955,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:48.061364+00:00","type":"telemetry_sample","drone":"drone_1","packets":15044,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:49.015819+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:49.073443+00:00","type":"telemetry_sample","drone":"drone_1","packets":15132,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:49.164321+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:04:50.081114+00:00","type":"telemetry_sample","drone":"drone_1","packets":15224,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:51.095670+00:00","type":"telemetry_sample","drone":"drone_1","packets":15313,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:52.103615+00:00","type":"telemetry_sample","drone":"drone_1","packets":15403,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:53.114860+00:00","type":"telemetry_sample","drone":"drone_1","packets":15489,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:54.025222+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:54.118007+00:00","type":"telemetry_sample","drone":"drone_1","packets":15581,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:55.131294+00:00","type":"telemetry_sample","drone":"drone_1","packets":15669,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:55.170936+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:04:56.138133+00:00","type":"telemetry_sample","drone":"drone_1","packets":15759,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:57.148957+00:00","type":"telemetry_sample","drone":"drone_1","packets":15849,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:58.152511+00:00","type":"telemetry_sample","drone":"drone_1","packets":15938,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:04:59.035053+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:04:59.155257+00:00","type":"telemetry_sample","drone":"drone_1","packets":16027,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:00.158938+00:00","type":"telemetry_sample","drone":"drone_1","packets":16116,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:01.126078+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:01.159967+00:00","type":"telemetry_sample","drone":"drone_1","packets":16205,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:02.163727+00:00","type":"telemetry_sample","drone":"drone_1","packets":16296,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:03.166241+00:00","type":"telemetry_sample","drone":"drone_1","packets":16392,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:04.046302+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:04.176653+00:00","type":"telemetry_sample","drone":"drone_1","packets":16488,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:05.181654+00:00","type":"telemetry_sample","drone":"drone_1","packets":16583,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:06.215114+00:00","type":"telemetry_sample","drone":"drone_1","packets":16679,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:07.058510+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:07.215748+00:00","type":"telemetry_sample","drone":"drone_1","packets":16777,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:08.223672+00:00","type":"telemetry_sample","drone":"drone_1","packets":16873,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:09.056013+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:09.226965+00:00","type":"telemetry_sample","drone":"drone_1","packets":16957,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:10.235089+00:00","type":"telemetry_sample","drone":"drone_1","packets":17035,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:11.235768+00:00","type":"telemetry_sample","drone":"drone_1","packets":17123,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:12.247250+00:00","type":"telemetry_sample","drone":"drone_1","packets":17209,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:13.066583+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:05:13.283804+00:00","type":"telemetry_sample","drone":"drone_1","packets":17292,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:14.066551+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:14.290781+00:00","type":"telemetry_sample","drone":"drone_1","packets":17371,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:15.295318+00:00","type":"telemetry_sample","drone":"drone_1","packets":17465,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:16.297057+00:00","type":"telemetry_sample","drone":"drone_1","packets":17562,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:17.303902+00:00","type":"telemetry_sample","drone":"drone_1","packets":17658,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:18.312013+00:00","type":"telemetry_sample","drone":"drone_1","packets":17753,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:18.939370+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:19.071992+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:19.312154+00:00","type":"telemetry_sample","drone":"drone_1","packets":17849,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:20.320312+00:00","type":"telemetry_sample","drone":"drone_1","packets":17945,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:21.327087+00:00","type":"telemetry_sample","drone":"drone_1","packets":18040,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:22.332299+00:00","type":"telemetry_sample","drone":"drone_1","packets":18136,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:23.396737+00:00","type":"telemetry_sample","drone":"drone_1","packets":18230,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:24.081721+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:24.404021+00:00","type":"telemetry_sample","drone":"drone_1","packets":18325,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:24.930869+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:25.417307+00:00","type":"telemetry_sample","drone":"drone_1","packets":18415,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:26.419245+00:00","type":"telemetry_sample","drone":"drone_1","packets":18502,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:27.428119+00:00","type":"telemetry_sample","drone":"drone_1","packets":18590,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:28.433147+00:00","type":"telemetry_sample","drone":"drone_1","packets":18680,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:29.091067+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:29.434557+00:00","type":"telemetry_sample","drone":"drone_1","packets":18769,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:30.441798+00:00","type":"telemetry_sample","drone":"drone_1","packets":18859,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:30.920974+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:31.443007+00:00","type":"telemetry_sample","drone":"drone_1","packets":18948,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:32.444425+00:00","type":"telemetry_sample","drone":"drone_1","packets":19038,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:33.450350+00:00","type":"telemetry_sample","drone":"drone_1","packets":19127,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:34.100631+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:34.452011+00:00","type":"telemetry_sample","drone":"drone_1","packets":19216,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:35.462096+00:00","type":"telemetry_sample","drone":"drone_1","packets":19305,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:36.673147+00:00","type":"telemetry_sample","drone":"drone_1","packets":19394,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:36.909439+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:37.679512+00:00","type":"telemetry_sample","drone":"drone_1","packets":19502,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:38.719107+00:00","type":"telemetry_sample","drone":"drone_1","packets":19574,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:39.110451+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:39.724835+00:00","type":"telemetry_sample","drone":"drone_1","packets":19688,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:40.755266+00:00","type":"telemetry_sample","drone":"drone_1","packets":19760,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:41.760343+00:00","type":"telemetry_sample","drone":"drone_1","packets":19863,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:42.809190+00:00","type":"telemetry_sample","drone":"drone_1","packets":19939,"batteryLevel":87,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:05:42.916809+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:05:43.264016+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":2}
+{"ts":"2026-06-14T11:05:44.119808+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:48.922423+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:05:49.129211+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:50.272082+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:05:50.276426+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":3}
+{"ts":"2026-06-14T11:05:54.141156+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:05:54.908948+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:05:57.285826+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:05:57.289260+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":4}
+{"ts":"2026-06-14T11:05:59.152900+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:00.898495+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:06:04.161941+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:04.299110+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:06:04.303624+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":5}
+{"ts":"2026-06-14T11:06:06.895776+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:06:09.172006+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:11.313149+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T11:06:11.316573+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":6}
+{"ts":"2026-06-14T11:06:12.903312+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:06:14.183283+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:15.373821+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:15.378073+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":7}
+{"ts":"2026-06-14T11:06:18.910142+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:06:19.193548+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:19.447348+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:19.451068+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":8}
+{"ts":"2026-06-14T11:06:23.554495+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:23.558427+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":9}
+{"ts":"2026-06-14T11:06:24.204947+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:24.898184+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:06:27.603021+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:27.606648+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":10}
+{"ts":"2026-06-14T11:06:29.216032+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:30.906408+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:06:31.661928+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:31.665526+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":11}
+{"ts":"2026-06-14T11:06:34.227267+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:35.726848+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:35.731139+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":12}
+{"ts":"2026-06-14T11:06:36.906492+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:06:39.238626+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:39.801480+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:39.804815+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":13}
+{"ts":"2026-06-14T11:06:42.914823+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:06:43.878167+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:43.881691+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":14}
+{"ts":"2026-06-14T11:06:44.248598+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:47.924423+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:47.928826+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":15}
+{"ts":"2026-06-14T11:06:48.922954+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:06:49.258877+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:51.993069+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:51.997870+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":16}
+{"ts":"2026-06-14T11:06:54.271192+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:06:54.931227+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:06:56.049330+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:06:56.054203+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":17}
+{"ts":"2026-06-14T11:06:59.283547+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:00.115625+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:07:00.120055+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":18}
+{"ts":"2026-06-14T11:07:00.937629+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:04.172407+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:07:04.177635+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":19}
+{"ts":"2026-06-14T11:07:04.295549+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:06.945269+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:07:08.239546+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:07:08.243128+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":20}
+{"ts":"2026-06-14T11:07:09.307724+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:12.301903+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T11:07:12.305999+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":21}
+{"ts":"2026-06-14T11:07:12.952510+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:07:14.314195+00:00","type":"telemetry_connected","drone":"drone_1","ip":"10.28.91.6","port":8081}
+{"ts":"2026-06-14T11:07:14.314284+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:14.331799+00:00","type":"telemetry_sample","drone":"drone_1","packets":19986,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:15.340976+00:00","type":"telemetry_sample","drone":"drone_1","packets":20071,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:16.401370+00:00","type":"telemetry_sample","drone":"drone_1","packets":20145,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:17.404912+00:00","type":"telemetry_sample","drone":"drone_1","packets":20252,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:18.449079+00:00","type":"telemetry_sample","drone":"drone_1","packets":20325,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:18.958502+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -5] No address associated with hostname>"}
+{"ts":"2026-06-14T11:07:19.323332+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:19.451228+00:00","type":"telemetry_sample","drone":"drone_1","packets":20431,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:20.489856+00:00","type":"telemetry_sample","drone":"drone_1","packets":20504,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:21.495757+00:00","type":"telemetry_sample","drone":"drone_1","packets":20609,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:22.577883+00:00","type":"telemetry_sample","drone":"drone_1","packets":20689,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:23.776507+00:00","type":"telemetry_sample","drone":"drone_1","packets":20807,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:24.333315+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:24.784315+00:00","type":"telemetry_sample","drone":"drone_1","packets":20923,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:24.941018+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:25.785803+00:00","type":"telemetry_sample","drone":"drone_1","packets":21019,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:26.798893+00:00","type":"telemetry_sample","drone":"drone_1","packets":21115,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:27.804630+00:00","type":"telemetry_sample","drone":"drone_1","packets":21211,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:28.805330+00:00","type":"telemetry_sample","drone":"drone_1","packets":21306,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:29.343690+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:29.807952+00:00","type":"telemetry_sample","drone":"drone_1","packets":21401,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:30.809238+00:00","type":"telemetry_sample","drone":"drone_1","packets":21496,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:30.929970+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:31.819366+00:00","type":"telemetry_sample","drone":"drone_1","packets":21592,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:32.822799+00:00","type":"telemetry_sample","drone":"drone_1","packets":21688,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:33.847243+00:00","type":"telemetry_sample","drone":"drone_1","packets":21783,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:34.353331+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:34.860197+00:00","type":"telemetry_sample","drone":"drone_1","packets":21881,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:35.864083+00:00","type":"telemetry_sample","drone":"drone_1","packets":21978,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:36.868798+00:00","type":"telemetry_sample","drone":"drone_1","packets":22073,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:36.911588+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:37.872703+00:00","type":"telemetry_sample","drone":"drone_1","packets":22169,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:38.873409+00:00","type":"telemetry_sample","drone":"drone_1","packets":22264,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:39.362995+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:39.873942+00:00","type":"telemetry_sample","drone":"drone_1","packets":22359,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:40.878490+00:00","type":"telemetry_sample","drone":"drone_1","packets":22454,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:41.887483+00:00","type":"telemetry_sample","drone":"drone_1","packets":22550,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:42.891900+00:00","type":"telemetry_sample","drone":"drone_1","packets":22641,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:42.895979+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:43.894206+00:00","type":"telemetry_sample","drone":"drone_1","packets":22728,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:44.372699+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:44.901874+00:00","type":"telemetry_sample","drone":"drone_1","packets":22815,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:45.920046+00:00","type":"telemetry_sample","drone":"drone_1","packets":22902,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:46.923554+00:00","type":"telemetry_sample","drone":"drone_1","packets":22992,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:47.926306+00:00","type":"telemetry_sample","drone":"drone_1","packets":23080,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:48.876623+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:48.929107+00:00","type":"telemetry_sample","drone":"drone_1","packets":23167,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:49.381284+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:49.931634+00:00","type":"telemetry_sample","drone":"drone_1","packets":23256,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:50.932275+00:00","type":"telemetry_sample","drone":"drone_1","packets":23350,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:51.947460+00:00","type":"telemetry_sample","drone":"drone_1","packets":23446,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:52.963457+00:00","type":"telemetry_sample","drone":"drone_1","packets":23536,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:53.964825+00:00","type":"telemetry_sample","drone":"drone_1","packets":23637,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:54.390319+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:54.836901+00:00","type":"mediamtx_api_error","error":"<urlopen error [Errno -2] Name or service not known>"}
+{"ts":"2026-06-14T11:07:54.968222+00:00","type":"telemetry_sample","drone":"drone_1","packets":23733,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:55.973944+00:00","type":"telemetry_sample","drone":"drone_1","packets":23829,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:56.974595+00:00","type":"telemetry_sample","drone":"drone_1","packets":23924,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:57.977782+00:00","type":"telemetry_sample","drone":"drone_1","packets":24019,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:58.987116+00:00","type":"telemetry_sample","drone":"drone_1","packets":24115,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T11:07:59.400571+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T11:07:59.987181+00:00","type":"telemetry_sample","drone":"drone_1","packets":24210,"batteryLevel":92,"flightMode":"GPS_NORMAL"}

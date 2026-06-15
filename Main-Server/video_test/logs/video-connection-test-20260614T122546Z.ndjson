@@ -1,0 +1,82 @@
+{"ts":"2026-06-14T12:25:46.494691+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T122546Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T12:25:46.499305+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:25:46.502947+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:48.509192+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:50.519855+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:51.508715+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:25:51.508902+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:25:51.515931+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":1}
+{"ts":"2026-06-14T12:25:52.528789+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:54.537740+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:56.521756+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:25:56.547127+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:25:58.524556+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:25:58.529672+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":2}
+{"ts":"2026-06-14T12:25:58.553947+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:00.561978+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:01.532913+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:02.571663+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:04.579900+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:05.540492+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:26:05.546378+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":3}
+{"ts":"2026-06-14T12:26:06.542193+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:06.588411+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:08.596089+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:10.605792+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:11.552444+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:12.557130+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:26:12.563508+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":4}
+{"ts":"2026-06-14T12:26:12.613327+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:14.622896+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:16.562515+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:16.628480+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:18.635311+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:19.571648+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:26:19.574358+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":5}
+{"ts":"2026-06-14T12:26:20.642557+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:21.571504+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:22.650882+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:24.659175+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:26.583205+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:26.582554+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"timed out"}
+{"ts":"2026-06-14T12:26:26.589167+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":6}
+{"ts":"2026-06-14T12:26:26.666744+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:28.677275+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:30.687579+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:31.013846+00:00","type":"telemetry_error","drone":"drone_1","ip":"192.168.137.194","error":"[Errno 111] Connection refused"}
+{"ts":"2026-06-14T12:26:31.018116+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"192.168.137.194","reconnects":7}
+{"ts":"2026-06-14T12:26:31.594591+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:32.695999+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:34.052912+00:00","type":"telemetry_connected","drone":"drone_1","ip":"192.168.137.194","port":8081}
+{"ts":"2026-06-14T12:26:34.065544+00:00","type":"telemetry_sample","drone":"drone_1","packets":1,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:34.703765+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:35.066953+00:00","type":"telemetry_sample","drone":"drone_1","packets":91,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:36.069180+00:00","type":"telemetry_sample","drone":"drone_1","packets":181,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:36.606442+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:36.711980+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:37.079875+00:00","type":"telemetry_sample","drone":"drone_1","packets":269,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:38.081510+00:00","type":"telemetry_sample","drone":"drone_1","packets":357,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:38.718697+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:39.084683+00:00","type":"telemetry_sample","drone":"drone_1","packets":446,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:40.087839+00:00","type":"telemetry_sample","drone":"drone_1","packets":535,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:40.725801+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:41.089691+00:00","type":"telemetry_sample","drone":"drone_1","packets":623,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:41.616286+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:42.096254+00:00","type":"telemetry_sample","drone":"drone_1","packets":713,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:42.732546+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:43.105809+00:00","type":"telemetry_sample","drone":"drone_1","packets":810,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:44.107137+00:00","type":"telemetry_sample","drone":"drone_1","packets":906,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:44.739167+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:45.116616+00:00","type":"telemetry_sample","drone":"drone_1","packets":1002,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:46.126586+00:00","type":"telemetry_sample","drone":"drone_1","packets":1099,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:46.623925+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:46.744720+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:47.132388+00:00","type":"telemetry_sample","drone":"drone_1","packets":1195,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:48.134668+00:00","type":"telemetry_sample","drone":"drone_1","packets":1291,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:48.751624+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:49.137320+00:00","type":"telemetry_sample","drone":"drone_1","packets":1387,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:50.138430+00:00","type":"telemetry_sample","drone":"drone_1","packets":1483,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:50.757746+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T12:26:51.140541+00:00","type":"telemetry_sample","drone":"drone_1","packets":1579,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T12:26:51.633747+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T12:26:52.147692+00:00","type":"telemetry_sample","drone":"drone_1","packets":1676,"batteryLevel":92,"flightMode":"GPS_NORMAL"}

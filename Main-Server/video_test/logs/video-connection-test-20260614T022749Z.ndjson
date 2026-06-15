@@ -1,0 +1,401 @@
+{"ts":"2026-06-14T02:27:49.340797+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260614T022749Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-14T02:27:49.345453+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:27:49.349227+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:49.355231+00:00","type":"telemetry_connected","drone":"drone_1","ip":"10.28.91.6","port":8081}
+{"ts":"2026-06-14T02:27:49.368643+00:00","type":"telemetry_sample","drone":"drone_1","packets":1,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:50.406507+00:00","type":"telemetry_sample","drone":"drone_1","packets":90,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:51.354101+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:51.409669+00:00","type":"telemetry_sample","drone":"drone_1","packets":188,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:52.416834+00:00","type":"telemetry_sample","drone":"drone_1","packets":278,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:53.360801+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:53.427561+00:00","type":"telemetry_sample","drone":"drone_1","packets":368,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:54.355549+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:27:54.435494+00:00","type":"telemetry_sample","drone":"drone_1","packets":456,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:55.368620+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:55.442842+00:00","type":"telemetry_sample","drone":"drone_1","packets":543,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:56.446682+00:00","type":"telemetry_sample","drone":"drone_1","packets":629,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:57.375148+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:57.456699+00:00","type":"telemetry_sample","drone":"drone_1","packets":715,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:58.460067+00:00","type":"telemetry_sample","drone":"drone_1","packets":805,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:27:59.364607+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:27:59.382850+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:27:59.462873+00:00","type":"telemetry_sample","drone":"drone_1","packets":899,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:00.475212+00:00","type":"telemetry_sample","drone":"drone_1","packets":995,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:01.389008+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:01.478330+00:00","type":"telemetry_sample","drone":"drone_1","packets":1091,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:02.485088+00:00","type":"telemetry_sample","drone":"drone_1","packets":1187,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:03.396730+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:03.494399+00:00","type":"telemetry_sample","drone":"drone_1","packets":1284,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:04.374082+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:04.501182+00:00","type":"telemetry_sample","drone":"drone_1","packets":1380,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:05.403142+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:05.510042+00:00","type":"telemetry_sample","drone":"drone_1","packets":1475,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:06.517422+00:00","type":"telemetry_sample","drone":"drone_1","packets":1570,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:07.409878+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:07.521512+00:00","type":"telemetry_sample","drone":"drone_1","packets":1665,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:08.523314+00:00","type":"telemetry_sample","drone":"drone_1","packets":1761,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:09.383999+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:09.417012+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:09.523931+00:00","type":"telemetry_sample","drone":"drone_1","packets":1856,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:10.567370+00:00","type":"telemetry_sample","drone":"drone_1","packets":1935,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:11.424348+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:11.568160+00:00","type":"telemetry_sample","drone":"drone_1","packets":2034,"batteryLevel":89,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:12.575942+00:00","type":"telemetry_sample","drone":"drone_1","packets":2118,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:13.430345+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:13.582249+00:00","type":"telemetry_sample","drone":"drone_1","packets":2200,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:14.391022+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:14.584189+00:00","type":"telemetry_sample","drone":"drone_1","packets":2282,"batteryLevel":88,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-14T02:28:14.923128+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":1}
+{"ts":"2026-06-14T02:28:15.437599+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:17.446797+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:19.400696+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:19.455510+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:21.464395+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:21.932822+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:21.939285+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":2}
+{"ts":"2026-06-14T02:28:23.473925+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:24.411385+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:25.483109+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:27.490567+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:28.949589+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:28.952780+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":3}
+{"ts":"2026-06-14T02:28:29.420695+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:29.499556+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:31.508674+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:33.518716+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:34.431171+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:35.527733+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:35.959567+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:35.965622+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":4}
+{"ts":"2026-06-14T02:28:37.536803+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:39.441087+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:39.546100+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:41.555014+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:42.974975+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:42.981339+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":5}
+{"ts":"2026-06-14T02:28:43.564218+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:44.451969+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:45.573853+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:47.582011+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:49.464224+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:49.589750+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:49.992335+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:49.998944+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":6}
+{"ts":"2026-06-14T02:28:51.599314+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:53.608340+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:54.476409+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:55.617188+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:57.010176+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:28:57.015986+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":7}
+{"ts":"2026-06-14T02:28:57.625292+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:28:59.488662+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:28:59.634975+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:01.641657+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:03.648040+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:04.025909+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:04.029155+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":8}
+{"ts":"2026-06-14T02:29:04.500251+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:05.654227+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:07.661314+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:09.509534+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:09.669970+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:11.037395+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:11.042807+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":9}
+{"ts":"2026-06-14T02:29:11.678233+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:13.686060+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:14.519208+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:15.696025+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:17.708878+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:18.051371+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:18.055864+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":10}
+{"ts":"2026-06-14T02:29:19.531121+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:19.717384+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:21.726022+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:23.733945+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:24.542796+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:25.066246+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:25.071897+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":11}
+{"ts":"2026-06-14T02:29:25.741864+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:27.750519+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:29.555674+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:29.758916+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:31.767448+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:32.081579+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:32.085766+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":12}
+{"ts":"2026-06-14T02:29:33.774613+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:34.568630+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:35.782480+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:37.790821+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:39.094618+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:39.099667+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":13}
+{"ts":"2026-06-14T02:29:39.578694+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:39.798438+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:41.806428+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:43.813772+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:44.588909+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:45.821863+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:46.108068+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:46.113900+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":14}
+{"ts":"2026-06-14T02:29:47.830849+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:49.600417+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:49.839023+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:51.846852+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:53.123702+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:29:53.128343+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":15}
+{"ts":"2026-06-14T02:29:53.854586+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:54.611669+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:55.862956+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:57.871282+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:29:59.623909+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:29:59.879553+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:00.137356+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:00.142599+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":16}
+{"ts":"2026-06-14T02:30:01.888328+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:03.896800+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:04.634756+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:05.905200+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:07.151744+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:07.156464+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":17}
+{"ts":"2026-06-14T02:30:07.913383+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:09.646742+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:09.921459+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:11.930139+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:13.938329+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:14.164617+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:14.169438+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":18}
+{"ts":"2026-06-14T02:30:14.658248+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:15.946992+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:17.956406+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:19.668227+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:19.965384+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:21.178973+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:21.183794+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":19}
+{"ts":"2026-06-14T02:30:21.973677+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:23.983084+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:24.679440+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:25.993731+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:28.002807+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:28.194656+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:28.199997+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":20}
+{"ts":"2026-06-14T02:30:29.690781+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:30.010832+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:32.020171+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:34.029908+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:34.703558+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:35.210408+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:35.217647+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":21}
+{"ts":"2026-06-14T02:30:36.039719+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:38.048487+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:39.716133+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:40.056634+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:42.065565+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:42.227691+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:42.231832+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":22}
+{"ts":"2026-06-14T02:30:44.072333+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:44.727210+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:46.080180+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:48.089913+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:49.239676+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:49.242751+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":23}
+{"ts":"2026-06-14T02:30:49.736709+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:50.099408+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:52.108843+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:54.117764+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:54.749300+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:30:56.125978+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:56.251359+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:30:56.256022+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":24}
+{"ts":"2026-06-14T02:30:58.133967+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:30:59.762127+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:00.141295+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:02.151950+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:03.265670+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:03.269636+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":25}
+{"ts":"2026-06-14T02:31:04.160460+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:04.773808+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:06.168727+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:08.176524+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:09.784607+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:10.187055+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:10.277963+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:10.283703+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":26}
+{"ts":"2026-06-14T02:31:12.196800+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:14.206737+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:14.794501+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:16.214608+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:17.292650+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:17.299165+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":27}
+{"ts":"2026-06-14T02:31:18.222059+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:19.804588+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:20.230891+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:22.240947+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:24.247808+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:24.308600+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:24.312979+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":28}
+{"ts":"2026-06-14T02:31:24.814181+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:26.256022+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:28.265252+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:29.824702+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:30.274238+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:31.321264+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:31.324787+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":29}
+{"ts":"2026-06-14T02:31:32.282104+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:34.290424+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:34.835887+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:36.299217+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:38.307077+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:38.333807+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:38.337846+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":30}
+{"ts":"2026-06-14T02:31:39.846501+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:40.314820+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:42.322823+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:44.329742+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:44.857406+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:45.345777+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:45.349666+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":31}
+{"ts":"2026-06-14T02:31:46.337544+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:48.345498+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:49.869218+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:50.352714+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:52.359114+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:52.360257+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:52.363169+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":32}
+{"ts":"2026-06-14T02:31:54.366799+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:54.880222+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:31:56.373964+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:58.381796+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:31:59.371989+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:31:59.376578+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":33}
+{"ts":"2026-06-14T02:31:59.891322+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:00.390535+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:02.397746+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:04.405295+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:04.902823+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:06.386615+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:06.392582+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":34}
+{"ts":"2026-06-14T02:32:06.414156+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:08.423088+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:09.914140+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:10.431734+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:12.440075+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:13.401821+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:13.406899+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":35}
+{"ts":"2026-06-14T02:32:14.446946+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:14.924568+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:16.454678+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:18.462530+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:19.937424+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:20.416028+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:20.421581+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":36}
+{"ts":"2026-06-14T02:32:20.471375+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:22.479864+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:24.488371+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:24.949825+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:26.497110+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:27.431456+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:27.436947+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":37}
+{"ts":"2026-06-14T02:32:28.505013+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:29.960930+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:30.513834+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:32.523426+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:34.446805+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:34.452964+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":38}
+{"ts":"2026-06-14T02:32:34.531781+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:34.973062+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:36.541375+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:38.550170+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:39.985393+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:40.557635+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:41.462984+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:41.467498+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":39}
+{"ts":"2026-06-14T02:32:42.565171+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:44.573186+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:44.995592+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:46.581561+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:48.476160+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:48.482503+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":40}
+{"ts":"2026-06-14T02:32:48.590827+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:50.005891+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:50.599928+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:52.607570+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:54.615139+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:55.016836+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:32:55.492174+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:32:55.497728+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":41}
+{"ts":"2026-06-14T02:32:56.623280+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:32:58.631607+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:00.028359+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:00.640263+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:02.508240+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:02.512100+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":42}
+{"ts":"2026-06-14T02:33:02.647399+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:04.654626+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:05.038874+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:06.662282+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:08.670011+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:09.521297+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:09.525850+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":43}
+{"ts":"2026-06-14T02:33:10.050266+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:10.678882+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:12.683328+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:14.690015+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:15.058459+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:16.534817+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:16.540014+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":44}
+{"ts":"2026-06-14T02:33:16.697954+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:18.704285+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:20.070197+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:20.712170+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:22.720821+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:23.549483+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:23.554389+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":45}
+{"ts":"2026-06-14T02:33:24.727828+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:25.080143+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:26.736174+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:28.744941+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:30.090697+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:30.569679+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:30.574009+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":46}
+{"ts":"2026-06-14T02:33:30.753360+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:32.763073+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:34.770786+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:35.101551+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:36.777484+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:37.584196+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:37.590745+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":47}
+{"ts":"2026-06-14T02:33:38.786370+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:40.112590+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:40.792986+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:42.799991+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:44.599823+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:44.604553+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":48}
+{"ts":"2026-06-14T02:33:44.808332+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:45.122236+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:46.817446+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:48.827104+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:50.132996+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:50.836891+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:51.613351+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:51.619853+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":49}
+{"ts":"2026-06-14T02:33:52.845075+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:54.853951+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:55.143550+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:33:56.862693+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:33:58.629898+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:33:58.634813+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":50}
+{"ts":"2026-06-14T02:33:58.869949+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:00.154578+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:34:00.877727+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:02.884737+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:04.892661+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:05.165519+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:34:05.644319+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:34:05.648947+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":51}
+{"ts":"2026-06-14T02:34:06.901046+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:08.907775+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:10.176471+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-14T02:34:10.914914+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:12.658431+00:00","type":"telemetry_error","drone":"drone_1","ip":"10.28.91.6","error":"timed out"}
+{"ts":"2026-06-14T02:34:12.660730+00:00","type":"telemetry_disconnected","drone":"drone_1","ip":"10.28.91.6","reconnects":52}
+{"ts":"2026-06-14T02:34:12.920914+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-14T02:34:14.929086+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}

@@ -1,0 +1,6 @@
+{"ts":"2026-06-15T02:43:58.376922+00:00","type":"video_grid_started","port":8090,"logFile":"/logs/video-connection-test-20260615T024358Z.ndjson","drones":["drone_1"]}
+{"ts":"2026-06-15T02:43:58.383520+00:00","type":"discovery_started","drones":["drone_1"]}
+{"ts":"2026-06-15T02:43:58.387480+00:00","type":"mediamtx_paths","paths":[{"name":"drone_1_mock","ready":false,"readers":0}]}
+{"ts":"2026-06-15T02:43:58.392232+00:00","type":"telemetry_connected","drone":"drone_1","ip":"192.168.137.194","port":8081}
+{"ts":"2026-06-15T02:43:58.404013+00:00","type":"telemetry_sample","drone":"drone_1","packets":1,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
+{"ts":"2026-06-15T02:43:59.410399+00:00","type":"telemetry_sample","drone":"drone_1","packets":94,"batteryLevel":92,"flightMode":"GPS_NORMAL"}
