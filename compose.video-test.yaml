@@ -1,9 +1,9 @@
 services:
   mediamtx:
     image: bluenviron/mediamtx:latest
-    container_name: wildbridge_mediamtx
+    container_name: aerosense_mediamtx
     networks:
-      - wildbridge
+      - aerosense
     ports:
       - "8889:8889" # WHIP (phone → mediamtx) and WHEP (browser ← mediamtx)
       - "8189:8189/udp" # WebRTC ICE UDP
@@ -11,15 +11,15 @@ services:
     environment:
       - MTX_WEBRTCLOCALUDPADDRESS=${MEDIAMTX_WEBRTC_UDP_ADDRESS:-:8189}
     volumes:
-      - ./GroundStation/video_test/mediamtx.yml:/mediamtx.yml:ro
+      - ./Main-Server/video_test/mediamtx.yml:/mediamtx.yml:ro
 
   video-grid:
-    image: wildbridge-video-connection-test:latest
+    image: aerosense-video-connection-test:latest
     build:
-      context: ./GroundStation/video_test/webapp
-    container_name: wildbridge_video_connection_test
+      context: ./Main-Server/video_test/webapp
+    container_name: aerosense_video_connection_test
     networks:
-      - wildbridge
+      - aerosense
     depends_on:
       - mediamtx
     ports:
@@ -35,8 +35,8 @@ services:
       - LOG_DIR=/logs
       - PYTHONUNBUFFERED=1
     volumes:
-      - ./GroundStation/video_test/logs:/logs
+      - ./Main-Server/video_test/logs:/logs
 
 networks:
-  wildbridge:
+  aerosense:
     driver: bridge

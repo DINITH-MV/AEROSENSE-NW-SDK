@@ -17,8 +17,8 @@ DISCOVERY_INTERVAL_MS = int(os.environ.get("DISCOVERY_INTERVAL_MS", "5000"))
 MEDIAMTX_API_URL = os.environ.get("MEDIAMTX_API_URL", "http://127.0.0.1:9997").rstrip("/")
 MEDIAMTX_WEBRTC_URL = os.environ.get("MEDIAMTX_WEBRTC_URL", "http://127.0.0.1:8889").rstrip("/")
 LOG_DIR = Path(os.environ.get("LOG_DIR", "/logs"))
-DISCOVERY_MSG = b"DISCOVER_WILDBRIDGE"
-DISCOVERY_RESPONSE_PREFIX = "WILDBRIDGE_HERE:"
+DISCOVERY_MSG = b"DISCOVER_AEROSENSE"
+DISCOVERY_RESPONSE_PREFIX = "AEROSENSE_HERE:"
 DISCOVERY_PORT = 30000
 MULTICAST_GROUP = "239.255.42.99"
 MULTICAST_PORT = 30001
@@ -409,6 +409,6 @@ if __name__ == "__main__":
     threading.Thread(target=discovery_loop, daemon=True).start()
     threading.Thread(target=poll_mediamtx_loop, daemon=True).start()
     server = ThreadingHTTPServer(("0.0.0.0", PORT), Handler)
-    print(f"WildBridge video grid listening on http://localhost:{PORT}")
+    print(f"AeroSense video grid listening on http://localhost:{PORT}")
     print(f"Logging diagnostics to {EVENT_LOG}")
     server.serve_forever()

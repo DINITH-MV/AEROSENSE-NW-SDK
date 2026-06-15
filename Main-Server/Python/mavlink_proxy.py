@@ -1,26 +1,3 @@
-"""
-WildBridge MAVLink Proxy for QGroundControl
-
-This script bridges WildBridge DJI drone telemetry to QGroundControl via MAVLink protocol.
-It allows you to visualize DJI drone data in QGroundControl and send basic commands.
-
-Features:
-- Real-time telemetry display in QGC (position, attitude, battery, GPS)
-- Map visualization with drone position and home point
-- Basic command support (takeoff, land, RTL)
-- Waypoint mission support
-
-Usage:
-    python mavlink_proxy.py --drone-ip 192.168.1.100 --qgc-port 14550
-
-Requirements:
-    pip install pymavlink
-
-Author: Edouard Rolland
-Project: WildDrone / WildBridge
-License: MIT
-"""
-
 import argparse
 import socket
 import threading
@@ -47,7 +24,7 @@ from djiInterface import DJIInterface
 
 class MAVLinkProxy:
     """
-    Proxy that bridges WildBridge telemetry to QGroundControl via MAVLink.
+    Proxy that bridges AeroSense telemetry to QGroundControl via MAVLink.
     """
     
     # MAVLink system and component IDs
@@ -79,7 +56,7 @@ class MAVLinkProxy:
         Initialize the MAVLink proxy.
         
         Args:
-            drone_ip: IP address of the WildBridge RC
+            drone_ip: IP address of the AeroSense RC
             qgc_host: Host for QGroundControl UDP connection
             qgc_port: Port for QGroundControl UDP connection (default 14550)
             use_dji_native: Use DJI native waypoint missions (default True)
@@ -90,16 +67,16 @@ class MAVLinkProxy:
         
         # Initialize DJI interface
         if drone_ip:
-            print(f"Connecting to WildBridge at {drone_ip}...")
+            print(f"Connecting to AeroSense at {drone_ip}...")
         else:
-            print("Connecting to WildBridge (auto-discovery)...")
+            print("Connecting to AeroSense (auto-discovery)...")
             
         self.dji = DJIInterface(drone_ip)
         
         # Update drone_ip if discovered
         if not self.drone_ip and self.dji.IP_RC:
             self.drone_ip = self.dji.IP_RC
-            print(f"Connected to WildBridge at {self.drone_ip}")
+            print(f"Connected to AeroSense at {self.drone_ip}")
         
         # UDP socket for QGC communication
         self.udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -142,7 +119,7 @@ class MAVLinkProxy:
     
     def start(self):
         """Start the MAVLink proxy."""
-        print("Starting WildBridge telemetry stream...")
+        print("Starting AeroSense telemetry stream...")
         self.dji.startTelemetryStream()
         
         self.running = True
@@ -157,7 +134,7 @@ class MAVLinkProxy:
         self.command_thread.start()
         
         print(f"\n{'='*60}")
-        print("WildBridge MAVLink Proxy Running")
+        print("AeroSense MAVLink Proxy Running")
         print(f"{'='*60}")
         print(f"Drone IP:     {self.drone_ip}")
         print(f"QGC Address:  {self.qgc_host}:{self.qgc_port}")
@@ -221,7 +198,7 @@ class MAVLinkProxy:
             time.sleep(1.0 / self.HEARTBEAT_RATE)
     
     def _telemetry_loop(self):
-        """Convert WildBridge telemetry to MAVLink messages."""
+        """Convert AeroSense telemetry to MAVLink messages."""
         last_position_time = 0
         last_attitude_time = 0
         last_status_time = 0
@@ -806,7 +783,7 @@ class MAVLinkProxy:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='WildBridge MAVLink Proxy for QGroundControl',
+        description='AeroSense MAVLink Proxy for QGroundControl',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -821,7 +798,7 @@ In QGroundControl:
     )
     
     parser.add_argument('--drone-ip', '-d', required=False, default="",
-                        help='IP address of WildBridge RC (optional, will auto-discover if not provided)')
+                        help='IP address of AeroSense RC (optional, will auto-discover if not provided)')
     parser.add_argument('--qgc-host', default='127.0.0.1',
                         help='QGroundControl host (default: 127.0.0.1)')
     parser.add_argument('--qgc-port', '-p', type=int, default=14550,

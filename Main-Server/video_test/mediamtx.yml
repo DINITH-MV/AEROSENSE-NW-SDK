@@ -1,4 +1,4 @@
-# WildBridge six-drone WebRTC relay.
+# AeroSense six-drone WebRTC relay.
 # Phones publish via WHIP: http://<host>:8889/<drone_name>/whip
 # Browsers consume via WHEP: http://<host>:8889/<drone_name>/whep
 
@@ -41,7 +41,7 @@ paths:
     rtpSDP: |
       v=0
       o=- 0 0 IN IP4 0.0.0.0
-      s=WildBridge Mock Video
+      s=AeroSense Mock Video
       c=IN IP4 0.0.0.0
       t=0 0
       m=video 8004 RTP/AVP 96

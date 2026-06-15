@@ -105,7 +105,7 @@ const summaryDefinitions = [
 const publishCatalog = [
   [
     "HTTP Flight Control",
-    "Direct phone commands on http://DRONE_IP:8080. These hit the WildBridge Android app first; the phone then calls the DJI SDK. Use these for quick bench tests or when ROS is not running.",
+    "Direct phone commands on http://DRONE_IP:8080. These hit the AeroSense Android app first; the phone then calls the DJI SDK. Use these for quick bench tests or when ROS is not running.",
     [
       [
         "Takeoff",
@@ -327,7 +327,7 @@ const publishCatalog = [
 const rosPublishCatalog = [
   [
     "ROS Services",
-    "ROS 2 service calls exposed by wildbridge_mavros. These call the bridge node on the ground station, which then forwards to the phone HTTP/DJI path.",
+    "ROS 2 service calls exposed by aerosense_mavros. These call the bridge node on the ground station, which then forwards to the phone HTTP/DJI path.",
     [
       [
         "Takeoff",
@@ -372,10 +372,10 @@ const rosPublishCatalog = [
       [
         "Abort Mission",
         "service",
-        "/wildbridge/abort_mission",
+        "/aerosense/abort_mission",
         "std_srvs/srv/Trigger",
-        "ros2 service call /DRONE_NS/wildbridge/abort_mission std_srvs/srv/Trigger {}",
-        "WildBridge-specific stop path for the current mission.",
+        "ros2 service call /DRONE_NS/aerosense/abort_mission std_srvs/srv/Trigger {}",
+        "AeroSense-specific stop path for the current mission.",
       ],
     ],
   ],
@@ -462,12 +462,12 @@ const rosPublishCatalog = [
         "Battery percentage normalized to 0.0-1.0.",
       ],
       [
-        "WildBridge Distance Home",
+        "AeroSense Distance Home",
         "topic",
-        "/wildbridge/distance_to_home",
+        "/aerosense/distance_to_home",
         "std_msgs/msg/Float64",
-        "ros2 topic echo /DRONE_NS/wildbridge/distance_to_home",
-        "WildBridge-specific distance-to-home telemetry in meters.",
+        "ros2 topic echo /DRONE_NS/aerosense/distance_to_home",
+        "AeroSense-specific distance-to-home telemetry in meters.",
       ],
     ],
   ],

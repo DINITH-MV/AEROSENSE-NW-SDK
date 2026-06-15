@@ -11,7 +11,7 @@
 
   <exec_depend>dji_controller</exec_depend>
   <exec_depend>drone_videofeed</exec_depend>
-  <exec_depend>groundstation</exec_depend>
+  <exec_depend>Main Server</exec_depend>
   <exec_depend>animal_localisation</exec_depend>
   <exec_depend>pso_controller</exec_depend>
   <exec_depend>mission_control</exec_depend>

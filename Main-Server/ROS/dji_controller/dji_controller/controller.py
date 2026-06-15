@@ -1,12 +1,3 @@
-"""
-Author: Edouard Rolland
-Project: WildDrone
-Contact: edr@mmmi.sdu.dk
-
-This file was written as part of the WildDrone project and implements a ROS 2 node for controlling a DJI drone 
-via the WildBridge app. The node handles both command reception and telemetry publishing.
-"""
-
 import rclpy
 from rclpy.node import Node
 from rclpy.parameter import Parameter

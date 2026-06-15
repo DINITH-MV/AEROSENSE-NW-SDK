@@ -1,17 +1,3 @@
-"""
-WildBridge - DJI Interface Module
-
-A Python interface for controlling DJI drones through HTTP requests and TCP sockets,
-providing seamless integration for drone operations, telemetry retrieval, and video streaming.
-
-Authors: Edouard G.A. Rolland, Kilian Meier 
-Project: WildDrone
-Institution: University of Bristol, University of Southern Denmark (SDU)
-License: MIT
-
-For more information, visit: https://github.com/WildDrone/WildBridge
-"""
-
 import cv2
 import requests
 import ast
@@ -23,12 +9,12 @@ from datetime import datetime
 
 # Discovery Configuration
 DISCOVERY_PORT = 30000
-DISCOVERY_MSG = b"DISCOVER_WILDBRIDGE"
-DISCOVERY_RESPONSE_PREFIX = "WILDBRIDGE_HERE:"
+DISCOVERY_MSG = b"DISCOVER_AEROSENSE"
+DISCOVERY_RESPONSE_PREFIX = "AEROSENSE_HERE:"
 
 def discover_drone(timeout=5.0):
     """
-    Discover WildBridge drone on the network using UDP broadcast.
+    Discover AeroSense drone on the network using UDP broadcast.
     Returns the IP address of the first drone found, or None if not found.
     """
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -47,7 +33,7 @@ def discover_drone(timeout=5.0):
                 message = data.decode('utf-8')
                 if message.startswith(DISCOVERY_RESPONSE_PREFIX):
                     drone_ip = message.split(":")[1]
-                    print(f"Found WildBridge drone at {drone_ip}")
+                    print(f"Found AeroSense drone at {drone_ip}")
                     return drone_ip
             except socket.timeout:
                 break

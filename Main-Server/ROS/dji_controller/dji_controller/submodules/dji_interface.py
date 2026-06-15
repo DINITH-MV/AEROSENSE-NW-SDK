@@ -1,17 +1,3 @@
-"""
-WildBridge - DJI Interface Module
-
-A Python interface for controlling DJI drones through HTTP requests and TCP sockets,
-providing seamless integration for drone operations, telemetry retrieval, and video streaming.
-
-Authors:  Edouard G.A. Rolland, Kilian Meier
-Project: WildDrone
-Institution: University of Bristol, University of Southern Denmark (SDU)
-License: MIT
-
-For more information, visit: https://github.com/WildDrone/WildBridge
-"""
-
 import cv2
 import requests
 import ast
@@ -23,8 +9,8 @@ from datetime import datetime
 
 # Discovery Configuration
 DISCOVERY_PORT = 30000
-DISCOVERY_MSG = b"DISCOVER_WILDBRIDGE"
-DISCOVERY_RESPONSE_PREFIX = "WILDBRIDGE_HERE:"
+DISCOVERY_MSG = b"DISCOVER_AEROSENSE"
+DISCOVERY_RESPONSE_PREFIX = "AEROSENSE_HERE:"
 
 def get_local_ips():
     """Get all local IP addresses for subnet detection."""
@@ -52,12 +38,12 @@ def get_local_ips():
 
 def scan_subnet_for_drones(local_ips, timeout=0.1, verbose=True):
     """
-    Scan subnet for WildBridge drones using direct UDP probing.
+    Scan subnet for AeroSense drones using direct UDP probing.
     Returns list of tuples [(drone_ip, drone_name), ...]
     """
     found_drones = {}
     if verbose:
-        print("Scanning subnet for WildBridge drones...")
+        print("Scanning subnet for AeroSense drones...")
     
     for local_ip in local_ips:
         parts = local_ip.split('.')
@@ -84,7 +70,7 @@ def scan_subnet_for_drones(local_ips, timeout=0.1, verbose=True):
                         drone_ip = parts[1] if len(parts) > 1 else addr[0]
                         drone_name = parts[2] if len(parts) > 2 else "UNKNOWN"
                         if verbose:
-                            print(f"Found WildBridge drone at {drone_ip} (Name: {drone_name})")
+                            print(f"Found AeroSense drone at {drone_ip} (Name: {drone_name})")
                         found_drones[drone_ip] = drone_name
                 except socket.timeout:
                     pass
@@ -97,7 +83,7 @@ def scan_subnet_for_drones(local_ips, timeout=0.1, verbose=True):
 
 def discover_all_drones(timeout=5.0, verbose=True):
     """
-    Discover all WildBridge drones on the network.
+    Discover all AeroSense drones on the network.
     Returns list of tuples [(drone_ip, drone_name), ...]
     """
     found_drones = {}
@@ -123,7 +109,7 @@ def discover_all_drones(timeout=5.0, verbose=True):
                     drone_name = parts[2] if len(parts) > 2 else "UNKNOWN"
                     if drone_ip and drone_ip not in found_drones:
                         if verbose:
-                            print(f"Found WildBridge drone at {drone_ip} (Name: {drone_name})")
+                            print(f"Found AeroSense drone at {drone_ip} (Name: {drone_name})")
                         found_drones[drone_ip] = drone_name
             except socket.timeout:
                 continue
@@ -146,7 +132,7 @@ def discover_all_drones(timeout=5.0, verbose=True):
 
 def discover_drone(timeout=5.0, verbose=True):
     """
-    Discover a single WildBridge drone.
+    Discover a single AeroSense drone.
     Returns tuple (drone_ip, drone_name) or (None, None).
     """
     drones = discover_all_drones(timeout, verbose)

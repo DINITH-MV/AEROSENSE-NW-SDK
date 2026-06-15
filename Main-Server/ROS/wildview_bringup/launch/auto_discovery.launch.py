@@ -9,7 +9,7 @@ def generate_launch_description():
         DeclareLaunchArgument(
             'drone_ip',
             default_value='',
-            description='IP address of the DJI remote controller running WildBridge. Leave empty for auto-discovery.'
+            description='IP address of the DJI remote controller running AeroSense. Leave empty for auto-discovery.'
         ),
         DeclareLaunchArgument(
             'namespace',
@@ -17,11 +17,11 @@ def generate_launch_description():
             description='Namespace for the drone. Use "auto" to derive from drone serial number, or specify a custom name.'
         ),
         
-        # WildBridge MAVROS Bridge node
+        # AeroSense MAVROS Bridge node
         Node(
-            package='wildbridge_mavros',
+            package='aerosense_mavros',
             executable='mavros_bridge',
-            name='wildbridge_mavros',
+            name='aerosense_mavros',
             namespace=LaunchConfiguration('namespace'),
             output='screen',
             parameters=[{
